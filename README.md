@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Smart Support Bot.png" alt="Black Fox Group Logo" width="96">
+  <img src="Smart Support Bot.png" alt="Fox Next Logo" width="96">
 </p>
 
 <h1 align="center"> Smart Support Bot and Manager</h1>
@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://foxnext.net">Website</a> •
-  <a href="https://github.com/BlackFoxGroup/VPS to VPN">VPS to VPN</a> •
-  <a href="https://github.com/BlackFoxGroup/blackfox-config-builder">Black Fox Config Builder</a> •
-  <a href="https://t.me/blackFoxVPNN">Telegram</a>
+  <a href="https://github.com/Fox-Next/VPS-to-VPN">VPS to VPN</a> •
+  <a href="https://github.com/Fox-Next/blackfox-config-builder">Black Fox Config Builder</a> •
+  <a href="https://t.me/Fox_next">Telegram</a>
 </p>
 
 <div dir="rtl">
@@ -21,10 +21,10 @@
 
 ⭐ اگر این پروژه برای شما مفید است، لطفاً با **Star ⭐ در GitHub** از ادامه این مسیر و توسعه پروژه حمایت کنید. حمایت شما انگیزه‌ای برای ادامه و ساخت پروژه‌های بهتر است.
 
-🦊 همچنین خوشحالیم که به خانواده **Black Fox** پیوسته‌اید. 💖
+🦊 همچنین خوشحالیم که به خانواده **Fox Next** پیوسته‌اید. 💖
 امیدواریم در کنار هم بتوانیم پروژه‌های کاربردی و متن‌باز بیشتری توسعه دهیم.
 
-🚀 در کنار Smart Support Bot، می‌توانید از سایر پروژه‌های **Black Fox** نیز دیدن کنید و از آن‌ها استفاده کنید.
+🚀 در کنار Smart Support Bot، می‌توانید از سایر پروژه‌های **Fox Next** نیز دیدن کنید و از آن‌ها استفاده کنید.
 
 **از همراهی و حمایت شما سپاسگزاریم. 🙏**
 
@@ -45,17 +45,17 @@ Both programs use the same product directory on the server:
 ```
 
 Website: [foxnext.net](https://foxnext.net)
-Source: [github.com/BlackFoxGroup/smart-support-bot](https://github.com/BlackFoxGroup/smart-support-bot)
+Source: [github.com/Fox-Next/smart-support-bot](https://github.com/Fox-Next/smart-support-bot)
 
 ## Download
 
 Download the public package:
 
-[smart-support-suite.zip](https://github.com/BlackFoxGroup/smart-support-bot/raw/main/downloads/smart-support-suite.zip)
+[smart-support-suite.zip](https://github.com/Fox-Next/smart-support-bot/raw/main/downloads/smart-support-suite.zip)
 
 Download filename stays `smart-support-suite.zip`. App version is still shown inside Expert/Bot (currently 2.3).
 
-The package is **raw source + empty `products/` template + `ai_profile` support**. It does **not** include Black Fox (or any vendor) product catalogs. It does **not** include Black Fox ready-made AI knowledge databases (`AI_Knowledge_Base_Multilingual`, `AI_BOT_DATABASE`), product screenshot media (add those via Expert/Manager), passwords, tokens, API keys, server addresses, usernames, user data, or Telegram session files.
+The package is **raw source + empty `products/` template + `ai_profile` support**. It does **not** include Fox Next (or any vendor) product catalogs. It does **not** include Fox Next ready-made AI knowledge databases (`AI_Knowledge_Base_Multilingual`, `AI_BOT_DATABASE`), product screenshot media (add those via Expert/Manager), passwords, tokens, API keys, server addresses, usernames, user data, or Telegram session files.
 
 Product Ask AI works from each product’s `catalog.json` + `ai_profile.json` alone.
 
@@ -80,7 +80,7 @@ Expert/Manager creates this file automatically when you add, save, or activate a
 Open PowerShell on Windows and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/BlackFoxGroup/smart-support-bot/main/deploy/install-suite.ps1 | iex
+irm https://raw.githubusercontent.com/Fox-Next/smart-support-bot/main/deploy/install-suite.ps1 | iex
 ```
 
 The installer asks for the Linux server login and Telegram token. It then:
@@ -163,7 +163,7 @@ Manager stores settings locally after Save. New values replace old values.
 
 ## License and credit
 
-Smart Support Bot and Manager are maintained by Black Fox Group.
+Smart Support Bot and Manager are maintained by Fox Next.
 
 ---
 
@@ -181,17 +181,17 @@ Smart Support Bot and Manager are maintained by Black Fox Group.
 ```
 
 وب‌سایت: [foxnext.net](https://foxnext.net)
-سورس پروژه: [github.com/BlackFoxGroup/smart-support-bot](https://github.com/BlackFoxGroup/smart-support-bot)
+سورس پروژه: [github.com/Fox-Next/smart-support-bot](https://github.com/Fox-Next/smart-support-bot)
 
 ## دانلود
 
 بسته عمومی را از اینجا دریافت کنید:
 
-[smart-support-suite.zip](https://github.com/BlackFoxGroup/smart-support-bot/raw/main/downloads/smart-support-suite.zip)
+[smart-support-suite.zip](https://github.com/Fox-Next/smart-support-bot/raw/main/downloads/smart-support-suite.zip)
 
 نام فایل دانلود `smart-support-suite.zip` است. شماره نسخه داخل Expert/ربات نمایش داده می‌شود (الان ۲٫۳).
 
-این بسته **سورس خام + قالب خالی `products/` + پشتیبانی `ai_profile`** است و **کاتالوگ محصولات بلک‌فاکس (یا هر فروشندهٔ دیگر) داخل آن نیست**. پایگاه‌های آمادهٔ دانش هوش مصنوعی بلک‌فاکس (`AI_Knowledge_Base_Multilingual` و `AI_BOT_DATABASE`) و فایل‌های رسانه‌ای/اسکرین‌شات محصولات داخل بسته نیستند (رسانه از طریق Expert/Manager اضافه می‌شود). هیچ رمز، توکن، کلید API، نشانی سرور، نام کاربری، اطلاعات کاربران یا فایل نشست تلگرام داخل آن قرار ندارد. Ask AI محصول فقط با `catalog.json` و `ai_profile.json` همان محصول کار می‌کند.
+این بسته **سورس خام + قالب خالی `products/` + پشتیبانی `ai_profile`** است و **کاتالوگ محصولات Fox Next (یا هر فروشندهٔ دیگر) داخل آن نیست**. پایگاه‌های آمادهٔ دانش هوش مصنوعی Fox Next (`AI_Knowledge_Base_Multilingual` و `AI_BOT_DATABASE`) و فایل‌های رسانه‌ای/اسکرین‌شات محصولات داخل بسته نیستند (رسانه از طریق Expert/Manager اضافه می‌شود). هیچ رمز، توکن، کلید API، نشانی سرور، نام کاربری، اطلاعات کاربران یا فایل نشست تلگرام داخل آن قرار ندارد. Ask AI محصول فقط با `catalog.json` و `ai_profile.json` همان محصول کار می‌کند.
 
 
 ## پروفایل هوش مصنوعی محصول (ai_profile.json)
@@ -220,7 +220,7 @@ Smart Support Bot and Manager are maintained by Black Fox Group.
 پنجره PowerShell را در ویندوز باز کنید و این دستور را اجرا کنید:
 
 ```powershell
-irm https://raw.githubusercontent.com/BlackFoxGroup/smart-support-bot/main/deploy/install-suite.ps1 | iex
+irm https://raw.githubusercontent.com/Fox-Next/smart-support-bot/main/deploy/install-suite.ps1 | iex
 ```
 
 نصب‌کننده اطلاعات ورود سرور لینوکس و توکن تلگرام را می‌پرسد. سپس این کارها را خودکار انجام می‌دهد:
@@ -303,4 +303,4 @@ AI_MODEL=replace-with-your-model
 
 ## سازنده
 
-توسعه و نگهداری پروژه برعهده Black Fox Group است.
+توسعه و نگهداری پروژه برعهده Fox Next است.

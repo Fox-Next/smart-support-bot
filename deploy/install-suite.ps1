@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$PackageUrl = "https://github.com/BlackFoxGroup/smart-support-bot/raw/main/downloads/smart-support-suite.zip"
+$PackageUrl = "https://github.com/Fox-Next/smart-support-bot/raw/main/downloads/smart-support-suite.zip"
 $InstallDir = Join-Path $env:LOCALAPPDATA "SmartSupport"
 $TempDir = Join-Path $env:TEMP ("smart-support-" + [guid]::NewGuid())
 $ZipPath = Join-Path $TempDir "smart-support-suite.zip"

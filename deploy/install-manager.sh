@@ -3,7 +3,7 @@
 set -euo pipefail
 
 INSTALL_DIR="${MANAGER_INSTALL_DIR:-/opt/smart-support}"
-REPO_URL="${MANAGER_REPO_URL:-https://github.com/BlackFoxGroup/smart-support-bot.git}"
+REPO_URL="${MANAGER_REPO_URL:-https://github.com/Fox-Next/smart-support-bot.git}"
 SERVICE_NAME="smart-support-manager"
 
 if [[ "${EUID}" -ne 0 ]]; then

@@ -6,7 +6,7 @@
 - Small JSON helpers: `creator_contact.json`, `group_community.json`, `social_news_sources.json`
 - Docs: `ASK_AI_BUNDLES.md`, `CATALOG_FEATURE_COPY.md`
 
-## Per-product Ask AI (no Black Fox FAQ required)
+## Per-product Ask AI (no Fox Next FAQ required)
 
 Product-scoped Ask AI uses:
 
@@ -16,7 +16,7 @@ Product-scoped Ask AI uses:
 
 It does **not** require `AI_BOT_DATABASE` or `AI_Knowledge_Base_Multilingual`.
 
-## Optional Black Fox operator databases (live / private)
+## Optional Fox Next operator databases (live / private)
 
 These folders power the operator’s own global intents/FAQ. They are **not** shipped in the public GitHub suite zip:
 

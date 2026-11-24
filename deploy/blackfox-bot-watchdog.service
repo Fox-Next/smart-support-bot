@@ -1,5 +1,5 @@
 [Unit]
-Description=Black Fox bot safe-change watchdog (backup / confirm / auto-restore)
+Description=Fox Next bot safe-change watchdog (backup / confirm / auto-restore)
 After=network-online.target blackfox-agent-bot.service
 Wants=network-online.target
 

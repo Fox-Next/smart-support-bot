@@ -1,5 +1,5 @@
 [Unit]
-Description=Black Fox VPN Telegram support bot (long polling)
+Description=Fox Next Telegram support bot (long polling)
 After=network-online.target
 Wants=network-online.target
 
